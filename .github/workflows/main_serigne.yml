@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'Serigne'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6E2C2CA632C3424F8A07CC5E1733ED86 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B8FFC0A175EB4C8BB31A243B936F11F3 }}
